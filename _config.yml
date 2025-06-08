@@ -23,13 +23,13 @@ repository               : "https://hydroinfo-prasad.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "2Your Sidebar Name2"
+  name             : "Prasad J. Deshpande"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher, Agronomy Department, Kansas State University"
   location         : "Manhattan, KS, USA"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "deshpande@ksu.edu" 
 
   # Academic websites
   academia         : # URL
