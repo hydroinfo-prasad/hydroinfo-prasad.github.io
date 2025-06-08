@@ -13,7 +13,7 @@ title                    : "Prasad J. Deshpande, PhD"
 title_separator          : "-"
 name                     : &name "Prasad"
 description              : &description "1personal description1"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://hydroinfo-prasad.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://hydroinfo-prasad.github.io/"
 
@@ -26,7 +26,7 @@ author:
   name             : "2Your Sidebar Name2"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Manhattan, KS, USA"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
