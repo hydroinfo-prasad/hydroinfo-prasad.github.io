@@ -2,7 +2,7 @@
 title: "Short-Term Fog Forecasting using Meteorological Observations at Airports in North India"
 collection: publications
 category: conferences
-permalink: publication/shortTermFog.md
+permalink: publication/shortTermFog/
 date: 2024-01-15
 venue: "7th Joint International Conference on Data Science & Management of Data"
 paperurl: "https://dl.acm.org/doi/10.1145/3632410.3632449"
