@@ -1,6 +1,7 @@
 ---
 title: "Short-Term Fog Forecasting using Meteorological Observations at Airports in North India"
 collection: publications
+category: conferences
 permalink: /publication/sharma2024
 date: 2024-01-15
 venue: "CODS-COMAD 2024"
