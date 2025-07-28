@@ -1,5 +1,5 @@
 ---
-title: "Comparison of in-situ fog observations with INSAT-3D satellite fog product for North Indian cities
+title: "Comparison of in-situ fog observations with INSAT-3D satellite fog product for North Indian cities"
 collection: publications
 category: conferences
 permalink: publication/igarss.md
