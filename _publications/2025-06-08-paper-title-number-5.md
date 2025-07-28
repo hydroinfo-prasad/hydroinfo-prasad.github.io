@@ -2,7 +2,7 @@
 title: "Short-Term Fog Forecasting using Meteorological Observations at Airports in North India"
 collection: publications
 category: conferences
-permalink: publication/2025-06-08-paper-title-number-5.md
+permalink: publication/shortTermFog.md
 date: 2024-01-15
 venue: "CODS-COMAD 2024"
 paperurl: "https://dl.acm.org/doi/10.1145/3632410.3632449"
