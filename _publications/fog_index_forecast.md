@@ -2,7 +2,7 @@
 title: "Forecasting of Fog Index and Prediction Interval using Bayesian Methods"
 collection: publications
 category: conferences
-permalink: publication/fog_index_forecast.md
+permalink: publication/fog_index_forecast/
 date: 2025-01-15
 venue: "8th International Conference on Data Science & Management of Data (CODS-COMAD 2024)"
 paperurl: "https://doi.org/10.1145/3703323.3703738"
