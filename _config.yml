@@ -84,6 +84,10 @@ publication_category:
     title: 'Journal Articles (Published)' 
   manuscripts_under_review:
     title: 'Journal Articles (Under Review)'    
+  book_chapter:
+    title: 'Book chapter (Published)' 
+  book_chapter_under_review:
+    title: 'Book chapters (Under Review)'    
   conferences:
     title: 'Conference Papers'
   manuscripts_under_preparation:
