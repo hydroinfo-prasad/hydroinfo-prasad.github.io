@@ -1,4 +1,3 @@
-
 ---
 title: "Operational and Analytical Frameworks of Unoccupied Aerial Vehicles (UAV) for Precision Agriculture Applications"
 collection: publications
