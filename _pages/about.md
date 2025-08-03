@@ -25,7 +25,7 @@ Supervisor: Dr. Gaurav Jha
 **MTech - PhD (Civil Engineering)**  
 *Hydraulics & Water Resources Engineering*  
 [Indian Institute of Technology, Kanpur, India](http://iitk.ac.in/)  
-*Expected 2025*  
+*Graduated 2025*  
 Thesis Supervisor: Dr. Shivam Tripathi
 
 **BTech (Civil Engineering) with Minor in Computer Science & Engineering**  
