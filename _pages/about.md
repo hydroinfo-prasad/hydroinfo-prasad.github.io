@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Prasad — a geospatial and machine learning researcher with expertise in climate, agriculture, and hydrological modeling.
+Prasad is currently working as a Postdoctoral Researcher at Kansas State University, USA. His research focuses on agro-hydrology and hydro-meteorology. During his PhD in Civil Engineering at the Indian Institute of Technology Kanpur, he developed real-time fog prediction methods using uncertainty-aware Bayesian Neural Networks (https://fog.iitk.ac.in). Prasad is passionate about leveraging advancements in the geospatial and machine learning domains to tackle critical challenges in environmental modelling and forecasting, with a focus on remote sensing and citizen-science methods.
 
 ---
 
 ## 📌 Current Appointment
 
 **Postdoctoral Researcher in Precision Irrigation**  
-[Kansas State University, USA](https://ksudigitalag.com/)  
+[Kansas State University, USA](https://ksudigitalag.com/){:target="_blank"}  
 *Jan 2025 – Present*  
 Supervisor: Dr. Gaurav Jha
 
@@ -24,12 +24,12 @@ Supervisor: Dr. Gaurav Jha
 
 **MTech - PhD (Civil Engineering)**  
 *Hydraulics & Water Resources Engineering*  
-[Indian Institute of Technology, Kanpur, India](http://iitk.ac.in/)  
+[Indian Institute of Technology, Kanpur, India](http://iitk.ac.in/){:target="_blank"}  
 *Graduated 2025*  
 Thesis Supervisor: Dr. Shivam Tripathi
 
 **BTech (Civil Engineering) with Minor in Computer Science & Engineering**  
-[Walchand College of Engineering, Sangli, India](https://walchandsangli.ac.in/)  
+[Walchand College of Engineering, Sangli, India](https://walchandsangli.ac.in/){:target="_blank"}  
 *Graduated 2016*
 
 ---
