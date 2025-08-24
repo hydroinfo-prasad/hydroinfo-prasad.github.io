@@ -294,6 +294,16 @@ defaults:
   #     share: true
 
 
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+  - scope:
+      path: "cv"
+      type: pages
+    values:
+      redirect_to: /files/cv.pdf
 # Sass/SCSS
 sass:
   sass_dir: _sass
