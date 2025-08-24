@@ -298,7 +298,7 @@ defaults:
       path: "cv"
       type: pages
     values:
-      redirect_to: /files/cv.pdf
+      redirect_to: "/files/cv.pdf"
 # Sass/SCSS
 sass:
   sass_dir: _sass
