@@ -295,11 +295,6 @@ defaults:
 
 
   - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-  - scope:
       path: "cv"
       type: pages
     values:
