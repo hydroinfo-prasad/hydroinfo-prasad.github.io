@@ -30,7 +30,7 @@ author:
   employer         : "Kansas State University"
   uri              : "https://ksudigitalag.com/team/prasad-deshpande/"
   email            : "deshpande@ksu.edu" 
-
+  cv               :"files/cv.pdf"
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
