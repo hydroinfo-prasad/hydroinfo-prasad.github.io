@@ -2,7 +2,7 @@
 title: "Data-Driven Fog Forecasting for the Indo-Gangetic Plains"
 collection: publications
 category: manuscripts
-permalink: /publication/Current_science
+permalink: /publication/current_science
 date: 2025-18-08
 venue: 'Current Science'
 paperurl: 'https://www.currentscience.ac.in/Volumes/129/06/0502.pdf'
