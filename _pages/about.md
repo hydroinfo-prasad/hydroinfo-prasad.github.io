@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Prasad is currently working as a Postdoctoral Researcher at Kansas State University, USA. His research focuses on agro-hydrology and hydro-meteorology. During his PhD in Civil Engineering at the Indian Institute of Technology Kanpur, he developed real-time fog prediction methods using uncertainty-aware Bayesian Neural Networks (https://fog.iitk.ac.in). Prasad is passionate about leveraging advancements in the geospatial and machine learning domains to tackle critical challenges in environmental modelling and forecasting, with a focus on remote sensing and citizen-science methods.
+Prasad is currently working as a Postdoctoral Researcher at Kansas State University, USA [Project link](https://www.k-state.edu/engagement/innovation-and-partnerships/interdisciplinary-institutes/water-institute/our-work/satrap/). His research focuses on agro-hydrology and hydro-meteorology. During his PhD in Civil Engineering at the Indian Institute of Technology Kanpur, he developed real-time fog prediction methods using uncertainty-aware Bayesian Neural Networks [fog.iitk.ac.in](https://fog.iitk.ac.in). Prasad is passionate about leveraging advancements in the geospatial and machine learning domains to tackle critical challenges in environmental modelling and forecasting, with a focus on remote sensing and citizen-science methods.
 
 ---
 
