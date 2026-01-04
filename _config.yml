@@ -365,3 +365,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+analytics:
+  provider: "google-analytics-4"
+  google:
+    tracking_id: "G-L56G8L62HY"
