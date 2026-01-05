@@ -1,0 +1,9 @@
+/* Reduce left sidebar width */
+.sidebar {
+  width: 180px;
+}
+
+/* Expand main content accordingly */
+.page {
+  max-width: calc(100% - 200px);
+}
