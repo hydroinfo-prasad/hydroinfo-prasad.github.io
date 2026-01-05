@@ -1,15 +1,13 @@
-/* Reduce author sidebar width (Academic Pages specific) */
-.layout--single .sidebar {
-  width: 140px !important;
+/* Remove the left sidebar completely */
+.sidebar,
+.author-profile {
+    display: none !important;
 }
 
-/* Reduce author card width */
-.author__content,
-.author__avatar {
-  max-width: 140px;
-}
-
-/* Expand main content */
+/* Make main content full width */
+.page__content,
 .layout--single .page__content {
-  width: calc(100% - 200px);
+    width: 100% !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
 }
