@@ -1,23 +1,24 @@
-.header-profile {
+/* Restore sidebar */
+#main {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
-    justify-content: flex-start;
-    margin-bottom: 2rem;
-    gap: 20px;
 }
 
-.header-profile .author__avatar img {
-    border-radius: 50%;
-    width: 120px;
-    height: 120px;
-    object-fit: cover;
+.sidebar {
+    width: 25%;           /* Sidebar width */
+    padding-right: 20px;  /* Space between sidebar and content */
+    box-sizing: border-box;
 }
 
-.header-profile .author__content {
-    max-width: 800px;
+.page {
+    width: 75%;           /* Main content width */
+    box-sizing: border-box;
 }
 
-.header-profile .author__urls-wrapper {
-    margin-top: 10px;
+/* Optional: responsive adjustments */
+@media (max-width: 768px) {
+    .sidebar, .page {
+        width: 100%;
+        padding-right: 0;
+    }
 }
