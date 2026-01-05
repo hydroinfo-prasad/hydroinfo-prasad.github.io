@@ -1,13 +1,23 @@
-/* Remove the left sidebar completely */
-.sidebar,
-.author-profile {
-    display: none !important;
+.header-profile {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 2rem;
+    gap: 20px;
 }
 
-/* Make main content full width */
-.page__content,
-.layout--single .page__content {
-    width: 100% !important;
-    margin-left: 0 !important;
-    padding-left: 0 !important;
+.header-profile .author__avatar img {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+.header-profile .author__content {
+    max-width: 800px;
+}
+
+.header-profile .author__urls-wrapper {
+    margin-top: 10px;
 }
