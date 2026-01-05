@@ -1,12 +1,12 @@
 /* Reduce author sidebar width (Academic Pages specific) */
 .layout--single .sidebar {
-  width: 180px !important;
+  width: 140px !important;
 }
 
 /* Reduce author card width */
 .author__content,
 .author__avatar {
-  max-width: 180px;
+  max-width: 140px;
 }
 
 /* Expand main content */
